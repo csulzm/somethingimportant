@@ -20,4 +20,4 @@ my five time change
 change after github
 
 8¡¢
-try conflict in master
+try conflict
